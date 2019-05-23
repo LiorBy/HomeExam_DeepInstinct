@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\bin\Debug\HomeExam_DeepInstinctTests.dll
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\bin\Debug\HomeExam_DeepInstinctTests.pdb
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\bin\Debug\HomeExam_DeepInstinct.exe
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\bin\Debug\HomeExam_DeepInstinct.pdb
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\obj\Debug\HomeExam_DeppInstinctTests.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\obj\Debug\HomeExam_DeepInstinctTests.dll
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeppInstinct\HomeExam_DeppInstinctTests\obj\Debug\HomeExam_DeepInstinctTests.pdb

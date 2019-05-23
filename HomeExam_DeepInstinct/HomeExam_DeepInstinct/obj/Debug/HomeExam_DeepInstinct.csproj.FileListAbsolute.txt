@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeepInstinct\obj\Debug\HomeExam_DeepInstinct.exe
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeepInstinct\obj\Debug\HomeExam_DeepInstinct.pdb
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeepInstinct\bin\Debug\HomeExam_DeepInstinct.exe
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeepInstinct\bin\Debug\HomeExam_DeepInstinct.pdb
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeepInstinct\obj\Debug\HomeExam_DeepInstinct.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeppInstinct\obj\Debug\HomeExam_DeepInstinct.exe
+C:\Users\USER\Desktop\שנה ג'\home exams\DeepInstinct\HomeExam_DeepInstinct\HomeExam_DeppInstinct\obj\Debug\HomeExam_DeepInstinct.pdb
